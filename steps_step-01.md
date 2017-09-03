@@ -1,6 +1,7 @@
 ### Step 01: Basic set up
 
-[_Started: September 03, 2017_]
+_Started: September 03, 2017_
+_Completed: September 03, 2017_
 
 1. Follow along tutorial
 	1. Get boilerplate running

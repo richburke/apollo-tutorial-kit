@@ -29,7 +29,8 @@
     "apollo-server-express": "^1.0.2",
     "body-parser": "^1.17.2",
     "express": "4.13.4",
-    "graphql-tools": "^1.0.0"
+    "graphql-tools": "^1.0.0",
+    "sqlite": "^2.8.0"
   },
   "devDependencies": {
     "babel-cli": "6.5.1",

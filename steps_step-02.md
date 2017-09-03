@@ -3,5 +3,7 @@
 [_Started: September 03, 2017_]
 
 1. Follow along tutorial
-	1. Hook up to a real DB
+	1. Create resolvers
+	2. Create connectors
+	3. Hook up to a real DB
 	
