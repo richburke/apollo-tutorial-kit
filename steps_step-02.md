@@ -1,6 +1,6 @@
 ### Step 02: Hook up to a real DB
 
-_Started: September 03, 2017_
+_Started: September 03, 2017_  
 _Finished: September 04, 2017_
 
 1. Follow along tutorial
