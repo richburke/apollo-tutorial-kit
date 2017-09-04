@@ -16,7 +16,7 @@ const mocks = {
   }),
   Post: () => ({
     title: casual.title,
-    text: casual.sentences(3),
+    content: casual.sentences(3),
   }),
 };
 

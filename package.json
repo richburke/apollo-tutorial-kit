@@ -30,6 +30,8 @@
     "body-parser": "^1.17.2",
     "express": "4.13.4",
     "graphql-tools": "^1.0.0",
+    "lodash": "^4.17.4",
+    "sequelize": "^4.8.0",
     "sqlite": "^2.8.0"
   },
   "devDependencies": {
