@@ -18,6 +18,7 @@ type Post {
 	title: String
 	content: String
 	author: Author
+	views: Int
 }
 
 type Query {
